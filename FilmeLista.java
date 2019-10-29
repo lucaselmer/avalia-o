@@ -111,21 +111,3 @@ public static void main(String[] args) {
 
 }
 
-   /**
- * - Identificador Único (ID)
-    - Nome
-    - Data de Lançamento
-    - Sinópse
-    - Valor para Locação
-    - Estoque
- * 
- *   String FilmeNome;
-   String FilmeId;
-   int DataLancamento;
-   float ValorLocacao;
- * 
- * 
- * 
- * 
- * 
- * 
